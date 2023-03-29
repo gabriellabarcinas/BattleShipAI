@@ -1,0 +1,286 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/AiPlayer.cpp
+map
+-
+random
+-
+AiPlayer.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/AiPlayer.h
+Ship.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.h
+InputValidation.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/AiPlayer.h
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+Ship.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.h
+random
+-
+map
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Board.cpp
+Board.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Board.h
+iostream
+-
+vector
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Board.h
+vector
+-
+string
+-
+map
+-
+GameFormat.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/GameFormat.h
+Ship.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/CheatingAI.cpp
+CheatingAI.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/CheatingAI.h
+vector
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/CheatingAI.h
+AiPlayer.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/AiPlayer.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+vector
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Game.cpp
+iostream
+-
+memory
+-
+string
+-
+Game.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Game.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+GameFormat.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/GameFormat.h
+HumanPlayer.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/HumanPlayer.h
+RandomAI.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/RandomAI.h
+CheatingAI.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/CheatingAI.h
+SearchAndDestroyAI.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/SearchAndDestroyAI.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Game.h
+string
+-
+memory
+-
+vector
+-
+random
+-
+algorithm
+-
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+GameFormat.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/GameFormat.h
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/GameFormat.cpp
+iostream
+-
+fstream
+-
+map
+-
+random
+-
+GameFormat.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/GameFormat.h
+InputValidation.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/GameFormat.h
+iostream
+-
+memory
+-
+map
+-
+vector
+-
+random
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/HumanPlayer.cpp
+sstream
+-
+Game.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Game.h
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+HumanPlayer.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/HumanPlayer.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+InputValidation.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/HumanPlayer.h
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.cpp
+InputValidation.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+algorithm
+-
+sstream
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+iostream
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.cpp
+sstream
+-
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+InputValidation.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.cpp
+sstream
+-
+memory
+-
+map
+-
+vector
+-
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+Ship.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.h
+InputValidation.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+string
+-
+vector
+-
+map
+-
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+Ship.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.h
+Board.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Board.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/RandomAI.cpp
+RandomAI.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/RandomAI.h
+AiPlayer.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/AiPlayer.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+vector
+-
+algorithm
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/RandomAI.h
+AiPlayer.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/AiPlayer.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+vector
+-
+random
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/SearchAndDestroyAI.cpp
+SearchAndDestroyAI.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/SearchAndDestroyAI.h
+vector
+-
+utility
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/SearchAndDestroyAI.h
+RandomAI.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/RandomAI.h
+Move.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Move.h
+string
+-
+vector
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.cpp
+iostream
+-
+map
+-
+string
+-
+cstring
+-
+cstdio
+-
+sstream
+-
+InputValidation.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/InputValidation.h
+Ship.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.h
+Player.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Player.h
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Ship.h
+string
+-
+iostream
+-
+vector
+-
+
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/main.cpp
+iostream
+-
+string
+-
+Game.h
+/Users/gabbybarcinas/Desktop/Schoolwork/ECS 36B/BattleShipWithAI/Game.h
+chrono
+-
+
